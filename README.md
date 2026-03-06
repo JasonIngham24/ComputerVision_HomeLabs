@@ -7,4 +7,5 @@ This repository showcases my computer vision home lab projects, which are a coll
 | # | Practical | Description |
 |---|-----------|-------------|
 | 1 | [Practical 1](Practical%201/practical1.ipynb) | Introduction to Computer Vision |
-| 2 | [Practical 2](Practical%202/practical2.ipynb) | Image Filtering and Edge Detection |
+| 2 | [Practical 2](Practical%202/practical02_1.ipynb) | Image Filtering and Edge Detection |
+| 3 | [Practical 2.5](Practical%202/practical02_2.ipynb) | Advanced Image Processing Techniques |
