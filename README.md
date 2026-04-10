@@ -10,3 +10,4 @@ This repository showcases my computer vision home lab projects, which are a coll
 | 2 | [Practical 2](Practical%202/practical02_1.ipynb) | Image Filtering and Edge Detection |
 | 3 | [Practical 2.5](Practical%202/practical02_2.ipynb) | Advanced Image Processing Techniques |
 | 4 | [Practical 3](Practical%203/practical3.ipynb) | Feature Detection and Color Matching |
+| 5 | [Practical 4](Practical%204/practical4.ipynb) | Thresholding, Canny Edge Detection and Image Stitching |
